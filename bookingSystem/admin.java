@@ -1,8 +1,7 @@
-import java.util.Scanner;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 import java.text.SimpleDateFormat;
 import java.time.ZoneId;
-import java.util.*;
 
 class Admin {
     private static int id = 0;
